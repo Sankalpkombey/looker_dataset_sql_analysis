@@ -29,14 +29,12 @@ After the data is inserted, various SQL queries can be written to explore and an
 
 #### Easy Queries
 - Simple data retrieval, filtering, and basic aggregations.
-  
 #### Medium Queries
 - More complex queries involving grouping, aggregation functions, and joins.
-  
 #### Advanced Queries
 - Nested subqueries, window functions, CTEs, and performance optimization.
 
-### 4. Customer Segmentation
+### 3. Customer Segmentation
 Customer segmentation is a crucial part of the project where customers are grouped based on their lifetime value, transaction patterns, and engagement metrics.
 
 - Percentile-based segmentation is applied to classify customers into low-value, mid-value, and high-value groups.
@@ -45,7 +43,7 @@ Customer segmentation is a crucial part of the project where customers are group
   
 - This segmentation helps businesses tailor strategies for marketing, retention, and customer experience improvement.
 
-### 5. Query Optimization
+### 4. Query Optimization
 In advanced stages, the focus shifts to improving query performance. Some optimization strategies include:
 - **Indexing**: Adding indexes on frequently queried columns.
 - **Query Execution Plan**: Using `EXPLAIN ANALYZE` to review and refine query performance.
