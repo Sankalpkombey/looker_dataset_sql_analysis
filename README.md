@@ -3,7 +3,7 @@
 
 Project Category: Advanced [Click here to get dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset)
 
-![looker_logo](https://github.com/Sankalpkombey/looker_dataset_sql_analysis/blob/main/looker_logo%20(1).png)
+<img src="https://github.com/Sankalpkombey/looker_dataset_sql_analysis/blob/main/looker_logo%20(1).png" height="800" weight="1000">
 
 ## Overview
 
@@ -52,7 +52,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
   
 ---
 
-## 15 Questions
+## 30 Questions
 
 ### Easy Level
 1. List all users
