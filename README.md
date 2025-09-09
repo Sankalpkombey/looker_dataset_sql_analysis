@@ -200,6 +200,7 @@ GROUP BY u.id, u.first_name;
 
 Below is the screenshot of the EXPLAIN result after optimization:
 ![query_chart](https://github.com/Sankalpkombey/looker_dataset_sql_analysis/blob/main/Screenshot%202025-08-28%20010711.png)
+
 **EXPLAIN After Index and JOIN Optimization**
 
 This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Ecommerce project.
