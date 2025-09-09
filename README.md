@@ -1,9 +1,9 @@
 
-# Looker Datset: Advanced SQL Analysis and Customer Segmentation
+# Looker Dataset: Advanced SQL Analysis and Customer Segmentation
 
 Project Category: Advanced [Click here to get dataset](https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset)
 
-<img src="https://github.com/Sankalpkombey/looker_dataset_sql_analysis/blob/main/looker_logo%20(1).png" height="800" weight="1000">
+<img src="https://github.com/Sankalpkombey/looker_dataset_sql_analysis/blob/main/looker_logo%20(1).png" height="700" weight="1000">
 
 ## Overview
 
